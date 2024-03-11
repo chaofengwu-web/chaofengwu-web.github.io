@@ -16,5 +16,5 @@ nav_order: 1
 
 ## Working paper
 
-- Prediction versus Prescription in Complex Games.
+- Managing Strategic Complexity.
   Jeff Ely, Ben Golub, Annie Liang, Chaofeng Wu.
